@@ -119,9 +119,3 @@ def verificar_integridad_archivo(original_hash, file_path):
 3. Ejecuta el cifrado de archivos específicos simulando el ataque.
 4. Utiliza las funciones de descifrado para restaurar los archivos después de simular el pago.
 
----
-
-## **Mejores Prácticas y Advertencias**
-- Este proyecto es únicamente con fines educativos. **No debe utilizarse en escenarios reales**.
-- Mantén todos los datos generados en un entorno controlado.
-- Documenta claramente cualquier personalización realizada en el código.
